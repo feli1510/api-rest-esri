@@ -1,6 +1,9 @@
 # api-rest-esri
 creacion de una api rest con java- spring boot
 
+- carpeta para entrar la carpeta de los archivos :
+src/main/java/com/example/CRUD
+
 - esta api rest se realizo con MySql(tener este gestor de base de datos para el uso correcto de la api)
 - tener en cuenta las configuraciones de propierties ya que se tiene que actualizar el puero, el usuario y la contraseña para la conexion a la base de datos
 - el puerto de es localhost:8080
